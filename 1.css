@@ -1,0 +1,16 @@
+.text{
+	height:70px;
+	width:250px;
+}
+.butop{
+	font-size: 25px;
+	height: 60px;
+	width: 60px;
+	background-color: black;
+	color: white;
+	border-color: black;
+}
+html,body{	
+	border: solid black;
+}
+	
